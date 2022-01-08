@@ -6,6 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AagmanSuri)](https://github.com/AagmanSuri/github-readme-stats)
 
+![Aagman's github activity graph](https://activity-graph.herokuapp.com/graph?username=AagmanSuri&bg_color=fffff0&color=708090&line=5094F0&point=24292e&area=false&hide_border=false)
 
 
 ### Let's connect and chat! :incoming_envelope:
